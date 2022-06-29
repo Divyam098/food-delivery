@@ -19,8 +19,3 @@
 
 
 
-
-# Live demo
-
-##  https://divyam098.github.io/food-delivery/
- 
